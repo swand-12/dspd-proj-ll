@@ -1,0 +1,12 @@
+7 Kohli 17 18 0 0
+1 Vora 1 2 3 4
+44 Hamilton 44 0 0 0
+8 Davis 19 20 0 0
+9 Dhere 21 22 45 0
+4 Brown 10 11 12 0
+2 Anap 5 6 28 0
+3 Williams 7 8 9 0
+10 Martinez 23 24 25 0
+5 Jones 13 14 0 0
+6 Piastri 81 16 0 0
+33 Verstappen 33 100 111 0
